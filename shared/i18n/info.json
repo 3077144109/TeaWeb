@@ -2,8 +2,8 @@
   "translations": [
     {
       "key": "de_gt",
-      "country_code": "de",
-      "path": "de_google_translate.translation",
+      "country_code": "cn",
+      "path": "cn_google_translate.translation",
 
       "name": "German translation, based on Google Translate",
       "contributors": [
